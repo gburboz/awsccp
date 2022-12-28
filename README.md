@@ -16,7 +16,7 @@ Below set of FREE training material covers most content that is necessary to get
 
 
 # Practice Mock Exam
-There are about 10 AWS provide [sample questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf) that can give you an idea of what kind of questions to expect on the exam. From AWS, Udemy, Cloud Academy, Plural Sight, O'Rielly, etc. are paid mock exams available which you can use to practice and gauge your exam preparedness. Make sure you spend a day doing a lot of practice mock exams which can give you good confidence of clearing your exam. Recently I found [Examtopics: aws-certified-cloud-practitioner](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/) but I have not tried it myself so don't know quality of the questions and answers here but may be can be help to others. 
+There are about 10 AWS provide [sample questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf) that can give you an idea of what kind of questions to expect on the exam. From AWS, Udemy, Cloud Academy, Plural Sight, O'Rielly, etc. are paid mock exams available which you can use to practice and gauge your exam preparedness. Make sure you spend a day doing a lot of practice mock exams which can give you good confidence of clearing your exam. Recently I found [Examtopics: aws-certified-cloud-practitioner](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/) but I have not tried it myself and some folks I know cautioned about correctness of same. You may be able to find some on YouTube as well, go through them.
 
 
 # Taking Exam
